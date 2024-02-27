@@ -9,11 +9,7 @@
             "day": "Monday",
             "festivals": ["New Year's Day"]
           },
-          {
-            "date": 2,
-            "day": "Tuesday",
-            "festivals": []
-          },
+          
           {
             "date": 31,
             "day": "Wednesday",

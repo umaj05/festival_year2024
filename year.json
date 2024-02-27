@@ -1,0 +1,466 @@
+{
+    "year": 2024,
+    "months": [
+      {
+        "month": "January",
+        "days": [
+          {
+            "date": 1,
+            "day": "Monday",
+            "festivals": ["New Year's Day"]
+          },
+          {
+            "date": 2,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 3,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 4,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 5,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 6,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 7,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 8,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 9,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 10,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 11,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 12,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 13,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 14,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 15,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 16,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 17,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 18,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 19,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 20,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 21,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 22,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 23,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 24,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 25,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 26,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 27,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 28,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 29,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 30,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Wednesday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "February",
+        "days": [
+          {
+            "date": 1,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 2,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 3,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 4,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 5,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 6,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 7,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 8,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 9,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 10,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 11,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 12,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 13,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 14,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 15,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 16,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 17,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 18,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 19,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 20,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 21,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 22,
+            "day": "Thursday",
+            "festivals": []
+          },
+          {
+            "date": 23,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 24,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 25,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 26,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 27,
+            "day": "Tuesday",
+            "festivals": []
+          },
+          {
+            "date": 28,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 29,
+            "day": "Thursday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "March",
+        "days": [
+          {
+            "date": 1,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 29,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "April",
+        "days": [
+          {
+            "date": 1,
+            "day": "Monday",
+            "festivals": []
+          },
+          {
+            "date": 30,
+            "day": "Tuesday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "May",
+        "days": [
+          {
+            "date": 1,
+            "day": "Wednesday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "June",
+        "days": [
+          {
+            "date": 1,
+            "day": "Saturday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "July",
+        "days": [
+          {
+            "date": 1,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "August",
+        "days": [
+          {
+            "date": 1,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "September",
+        "days": [
+          {
+            "date": 1,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "October",
+        "days": [
+          {
+            "date": 1,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+      {
+        "month": "November",
+        "days": [
+          {
+            "date": 1,
+            "day": "Friday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Friday",
+            "festivals": []
+          }
+        ]
+      },
+
+      {
+        "month": "December",
+        "days": [
+          {
+            "date": 1,
+            "day": "Sunday",
+            "festivals": []
+          },
+          {
+            "date": 31,
+            "day": "Tuesday",
+            "festivals": ["New Year's Eve"]
+          }
+        ]
+      }
+    ]
+  }

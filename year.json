@@ -15,22 +15,6 @@
             "festivals": []
           },
           {
-            "date": 3,
-            "day": "Wednesday",
-            "festivals": []
-          },
-          {
-            "date": 4,
-            "day": "Thursday",
-            "festivals": []
-          },
-          {
-            "date": 5,
-            "day": "Friday",
-            "festivals": []
-          },
-          
-          {
             "date": 31,
             "day": "Wednesday",
             "festivals": []
@@ -48,21 +32,6 @@
           {
             "date": 2,
             "day": "Friday",
-            "festivals": []
-          },
-          {
-            "date": 3,
-            "day": "Saturday",
-            "festivals": []
-          },
-          {
-            "date": 4,
-            "day": "Sunday",
-            "festivals": []
-          },
-          {
-            "date": 5,
-            "day": "Monday",
             "festivals": []
           },
           {
